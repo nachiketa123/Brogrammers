@@ -4,5 +4,6 @@
 	define('DB_PASSWORD','');
 	define('DB_HOST','localhost');
 	define('TABLE_DATA','data');
+	define('TABLE_MESSAGE','message');
 	
 ?>

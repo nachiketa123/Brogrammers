@@ -94,8 +94,6 @@ function onKeyUp()
 </script>
 <?php
 require('db_operation.php');
-$page = $_SERVER['PHP_SELF'];
-$sec = "1";
 
 if($_SERVER['REQUEST_METHOD'] == 'POST')
 {
